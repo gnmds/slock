@@ -11,4 +11,6 @@
 
 # ignore output and def config
 *.o
+*.orig
+*.rej
 config.def.h
